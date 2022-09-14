@@ -5,3 +5,4 @@ játékok:
 -minecraft
 -roblox
 -rocket leuge
+-warzone
