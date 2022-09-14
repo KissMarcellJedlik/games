@@ -8,3 +8,4 @@ játékok:
 -warzone
 -gta v
 -valorant
+üres
