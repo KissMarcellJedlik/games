@@ -7,3 +7,4 @@ játékok:
 -rocket leuge
 -warzone
 -gta v
+-valorant
