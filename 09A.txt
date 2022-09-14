@@ -2,3 +2,4 @@ játékok:
 -pubg
 -fortnite
 -csgo
+-minecraft
